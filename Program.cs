@@ -1,5 +1,23 @@
 ﻿using System;
 
+
+        // Cannot create an instance of the abstract Shape class
+        // Shape myShape = new Shape("Red"); // This would result in a compile-time error
+
+        // Create instances of the concrete derived classes
+        Rectangle myRectangle = new Rectangle("Blue", 10, 5);
+        Circle myCircle = new Circle("Green", 7);
+
+        // Access common properties and methods
+        myRectangle.DisplayColor(); // Output: Color of the shape: Blue
+        myCircle.DisplayColor();    // Output: Color of the shape: Green
+
+        // Call the implemented abstract method
+        Console.WriteLine($"Area of the rectangle: {myRectangle.CalculateArea()}"); // Output: Area of the rectangle: 50
+
+
+
+
 // Abstract base class
 abstract class Shape
 {
@@ -53,26 +71,5 @@ class Circle : Shape
     public override double CalculateArea()
     {
         return Math.PI * Radius * Radius;
-    }
-}
-
-public class Example
-{
-    public static void Main(stringargs)
-    {
-        // Cannot create an instance of the abstract Shape class
-        // Shape myShape = new Shape("Red"); // This would result in a compile-time error
-
-        // Create instances of the concrete derived classes
-        Rectangle myRectangle = new Rectangle("Blue", 10, 5);
-        Circle myCircle = new Circle("Green", 7);
-
-        // Access common properties and methods
-        myRectangle.DisplayColor(); // Output: Color of the shape: Blue
-        myCircle.DisplayColor();    // Output: Color of the shape: Green
-
-        // Call the implemented abstract method
-        Console.WriteLine($"Area of the rectangle: {myRectangle.CalculateArea()}"); // Output: Area of the rectangle: 50
-        Console.WriteLine($"Area of the circle: {myCircle.CalculateArea()}");       // Output: Area of the circle: 153.93804002589985
     }
 }
