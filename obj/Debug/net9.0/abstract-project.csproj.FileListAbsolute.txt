@@ -1,0 +1,15 @@
+E:\GitHub Project\dotnetprojects\web\abstract-project\obj\Debug\net9.0\abstract-project.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub Project\dotnetprojects\web\abstract-project\obj\Debug\net9.0\abstract-project.AssemblyInfoInputs.cache
+E:\GitHub Project\dotnetprojects\web\abstract-project\obj\Debug\net9.0\abstract-project.AssemblyInfo.cs
+E:\GitHub Project\dotnetprojects\web\abstract-project\obj\Debug\net9.0\abstract-project.csproj.CoreCompileInputs.cache
+E:\GitHub Project\dotnetprojects\web\abstract-project\obj\Debug\net9.0\abstract-project.sourcelink.json
+E:\GitHub Project\dotnetprojects\web\abstract-project\obj\Debug\net9.0\abstract-project.dll
+E:\GitHub Project\dotnetprojects\web\abstract-project\obj\Debug\net9.0\refint\abstract-project.dll
+E:\GitHub Project\dotnetprojects\web\abstract-project\obj\Debug\net9.0\abstract-project.pdb
+E:\GitHub Project\dotnetprojects\web\abstract-project\bin\Debug\net9.0\abstract-project.exe
+E:\GitHub Project\dotnetprojects\web\abstract-project\bin\Debug\net9.0\abstract-project.deps.json
+E:\GitHub Project\dotnetprojects\web\abstract-project\bin\Debug\net9.0\abstract-project.runtimeconfig.json
+E:\GitHub Project\dotnetprojects\web\abstract-project\bin\Debug\net9.0\abstract-project.dll
+E:\GitHub Project\dotnetprojects\web\abstract-project\bin\Debug\net9.0\abstract-project.pdb
+E:\GitHub Project\dotnetprojects\web\abstract-project\obj\Debug\net9.0\abstract-project.genruntimeconfig.cache
+E:\GitHub Project\dotnetprojects\web\abstract-project\obj\Debug\net9.0\ref\abstract-project.dll
